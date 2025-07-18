@@ -44,8 +44,8 @@ Electrical_vehical_prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/electrical-vehicle-prediction.git
-   cd electrical-vehicle-prediction
+   git clone https://github.com/Sagar-Bawankule/Electrical_vehical_prediction.git
+   cd Electrical_vehical_prediction
    ```
 
 2. **Run the automated pipeline**
@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Contact
 
-- **Project Link**: [https://github.com/yourusername/electrical-vehicle-prediction](https://github.com/yourusername/electrical-vehicle-prediction)
-- **Issues**: [https://github.com/yourusername/electrical-vehicle-prediction/issues](https://github.com/yourusername/electrical-vehicle-prediction/issues)
+- **Project Link**: [https://github.com/Sagar-Bawankule/Electrical_vehical_prediction](https://github.com/Sagar-Bawankule/Electrical_vehical_prediction)
+- **Issues**: [https://github.com/Sagar-Bawankule/Electrical_vehical_prediction/issues](https://github.com/Sagar-Bawankule/Electrical_vehical_prediction/issues)
 
 ## 🙏 Acknowledgments
 
