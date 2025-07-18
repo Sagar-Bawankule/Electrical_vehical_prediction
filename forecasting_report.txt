@@ -1,0 +1,35 @@
+ELECTRIC VEHICLE ADOPTION FORECASTING REPORT
+==================================================
+
+DATA SUMMARY:
+- Dataset size: 25112 records
+- Time period: 2017 - 2024
+- Total EVs in dataset: 6,195,315
+- Average annual growth: 1.8%
+
+MODEL PERFORMANCE:
+- linear_regression:
+  * R² Score: 1.0000
+  * RMSE: 4.80
+  * MAE: 3.85
+- ridge_regression:
+  * R² Score: 1.0000
+  * RMSE: 4.80
+  * MAE: 3.86
+- random_forest:
+  * R² Score: 0.9998
+  * RMSE: 26.41
+  * MAE: 2.67
+- gradient_boosting:
+  * R² Score: 0.9995
+  * RMSE: 39.52
+  * MAE: 5.31
+
+FORECASTS (Next 5 Years):
+- Year 2025: 397,020 EVs
+- Year 2026: 457,110 EVs
+- Year 2027: 526,210 EVs
+- Year 2028: 605,673 EVs
+- Year 2029: 697,054 EVs
+
+PROJECTED ANNUAL GROWTH RATE: 11.9%
